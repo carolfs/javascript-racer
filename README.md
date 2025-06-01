@@ -3,22 +3,22 @@ Javascript Pseudo 3D Racer
 
 An Outrun-style pseudo-3d racing game in HTML5 and Javascript
 
- * [play the game](http://codeincomplete.com/projects/racer/v4.final.html)
+ * [play the game](https://jakesgordon.com/games/racer/)
  * view the [source](https://github.com/jakesgordon/javascript-racer)
- * read about [how it works](http://codeincomplete.com/posts/2012/6/22/javascript_racer/)
+ * read about [how it works](https://jakesgordon.com/writing/javascript-racer/)
 
 Incrementally built up in 4 parts:
 
- * play the [straight road demo](http://codeincomplete.com/projects/racer/v1.straight.html)
- * play the [curves demo](http://codeincomplete.com/projects/racer/v2.curves.html)
- * play the [hills demo](http://codeincomplete.com/projects/racer/v3.hills.html)
- * play the [final version](http://codeincomplete.com/projects/racer/v4.final.html)
+ * play the [straight road demo](https://jakesgordon.com/games/racer/v1-straight/)
+ * play the [curves demo](https://jakesgordon.com/games/racer/v2-curves/)
+ * play the [hills demo](https://jakesgordon.com/games/racer/v3-hills/)
+ * play the [final version](https://jakesgordon.com/games/racer/)
 
 With detailed descriptions of how each part works:
 
- * read more about [v1 - straight roads](http://codeincomplete.com/posts/2012/6/23/javascript_racer_v1_straight)
- * read more about [v2 - curves](http://codeincomplete.com/posts/2012/6/24/javascript_racer_v2_curves/)
- * read more about [v3 - hills](http://codeincomplete.com/posts/2012/6/26/javascript_racer_v3_hills/)
+ * read more about [v1 - straight roads](https://jakesgordon.com/writing/javascript-racer-v1-straight/)
+ * read more about [v2 - curves](https://jakesgordon.com/writing/javascript-racer-v2-curves/)
+ * read more about [v3 - hills](https://jakesgordon.com/writing/javascript-racer-v3-hills/)
  * read more about v4 - final (coming soon)
 
 A note on performance
@@ -55,7 +55,7 @@ code, but since its just a racing game tech demo, I have elected to [KISS](http:
 FUTURE
 ======
 
-It's quite astounding what it takes to actually [finish](http://codeincomplete.com/posts/2011/9/21/defining_finished/)
+It's quite astounding what it takes to actually [finish](https://jakesgordon.com/writing/defining-finished/)
 a game, even a simple one. And this is not a project that I plan on polishing into a finished state. It should
 really be considered just how to get started with a pseudo-3d racing game.
 
