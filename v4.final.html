@@ -9,7 +9,7 @@
 
 <body> 
 
-  <table id="controls" style="visibility: hidden;">
+  <table id="controls">
     <tr>
       <td colspan="2">
         <a href='v1.straight.html'>straight</a> |
@@ -18,8 +18,8 @@
         <a href='v4.final.html'>final</a>
       </td>
     </tr>
-    <tr><td id="fps" colspan="2" align="right"></td></tr>
-    <tr>
+    <tr style="visibility: hidden;"><td id="fps" colspan="2" align="right"></td></tr>
+    <tr style="visibility: hidden;">
       <th><label for="resolution">Resolution :</label></th>
       <td>
         <select id="resolution" style="width:100%">
@@ -30,7 +30,7 @@
         </select>
       </td>
     </tr>
-    <tr>
+    <tr style="visibility: hidden;">
       <th><label for="lanes">Lanes :</label></th>
       <td>
         <select id="lanes">
@@ -41,23 +41,23 @@
         </select>
       </td>
     </tr>
-    <tr>
+    <tr style="visibility: hidden;">
       <th><label for="roadWidth">Road Width (<span id="currentRoadWidth"></span>) :</label></th>
       <td><input id="roadWidth" type='range' min='500' max='3000' title="integer (500-3000)"></td>
     </tr>
-    <tr>
+    <tr style="visibility: hidden;">
       <th><label for="cameraHeight">CameraHeight (<span id="currentCameraHeight"></span>) :</label></th>
       <td><input id="cameraHeight" type='range' min='500' max='5000' title="integer (500-5000)"></td>
     </tr>
-    <tr>
+    <tr style="visibility: hidden;">
       <th><label for="drawDistance">Draw Distance (<span id="currentDrawDistance"></span>) :</label></th>
       <td><input id="drawDistance" type='range' min='100' max='500' title="integer (100-500)"></td>
     </tr>
-    <tr>
+    <tr style="visibility: hidden;">
       <th><label for="fieldOfView">Field of View (<span id="currentFieldOfView"></span>) :</label></th>
       <td><input id="fieldOfView" type='range' min='80' max='140' title="integer (80-140)"></td>
     </tr>
-    <tr>
+    <tr style="visibility: hidden;">
       <th><label for="fogDensity">Fog Density (<span id="currentFogDensity"></span>) :</label></th>
       <td><input id="fogDensity" type='range' min='0' max='50' title="integer (0-50)"></td>
     </tr>
